@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+#heading{
+    color: gray;
+    margin: 10px;
+     border: 1px dotted khaki;
+}
+div{
+    
+}
+.photo{
+    height: auto;
+    width: 40%;
+    display: inline;
+}
